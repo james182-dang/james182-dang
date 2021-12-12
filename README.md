@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm James, a full-stack web developer based in Nashville, TN. 
+
+Musician by nature, web developer by trade.
+
+I'm currently working on obtaining my certification from Vanderbilt University.
+
+Feel free to reach out to me through linkedIn (https://www.linkedin.com/in/james-lindsey-7ab945218/),
+
+or feel free to click on my twitter link on the left there and send me a message!
 <!--
 **james182-dang/james182-dang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
