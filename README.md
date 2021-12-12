@@ -6,7 +6,7 @@ Musician by nature, web developer by trade.
 
 I'm currently working on obtaining my certification from Vanderbilt University.
 
-Feel free to reach out to me through linkedIn (https://www.linkedin.com/in/james-lindsey-7ab945218/),
+Feel free to reach out to me through linkedIn,
 
 or feel free to click on my twitter link on the left there and send me a message!
 
