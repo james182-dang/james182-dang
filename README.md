@@ -1,7 +1,7 @@
 <h2>Hi there, I'm James<img src="https://armoniaec.net/blog/wp-content/uploads/2020/01/Guitarra.gif" height='40' width='25'></h2>
 
 ```javascript
-function Developer(first, age, skills, likes) {
+function Developer(firstName, age, skills, likes) {
   this.firstName = first;
   this.age = age;
   this.skills = skills;
