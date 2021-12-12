@@ -16,7 +16,7 @@ const James = new Developer(
 )
 ```
 
-Musician by nature, web developer by trade.
+Musician by nature, full stack web developer by trade.
 
 I'm currently working on obtaining my certification from Vanderbilt University.
 
