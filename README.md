@@ -12,7 +12,7 @@ const James = new Developer(
 "James", 
 26, 
 "HTML/CSS, git/heroku, javascript, node, express, mySQL, mongoDB, to name a few",
-"Pets, music, making functional web applications for you :)"
+"My wonderful pets, music, making functional web applications for you :)"
 )
 ```
 
