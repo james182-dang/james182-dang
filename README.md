@@ -18,7 +18,7 @@ const James = new Developer(
 
 Musician by nature, full stack web developer by trade.
 
-I'm currently working on obtaining my certification from Vanderbilt University.
+Certified by Vanderbilt University.
 
 Feel free to reach out to me through linkedIn,
 
