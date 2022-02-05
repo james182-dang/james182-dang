@@ -20,6 +20,10 @@ Musician by nature, full stack web developer by trade.
 
 Certified by Vanderbilt University.
 
+Currently working on the front-end aspect of my portfolio.
+
+Beginning work soon on my next project, Concertify.
+
 Feel free to reach out to me through linkedIn,
 
 or feel free to click on my twitter link on the left there and send me a message!
