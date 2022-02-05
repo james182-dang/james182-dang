@@ -20,7 +20,7 @@ Musician by nature, full stack web developer by trade.
 
 Certified by Vanderbilt University.
 
-Currently working on the front-end aspect of my portfolio.
+Currently working on the front-end aspect of my portfolio, as well as my project "SouSmart".
 
 Beginning work soon on my next project, Concertify.
 
