@@ -11,7 +11,7 @@ function Developer(firstName, age, skills, likes) {
 const James = new Developer(
 "James", 
 26, 
-"HTML/CSS, git/heroku, javascript, node, express, mySQL, mongoDB, to name a few",
+"HTML/CSS, git/heroku, javascript, React, node, express, mySQL, mongoDB, to name a few",
 "My wonderful pets, music, making functional web applications for you :)"
 )
 ```
