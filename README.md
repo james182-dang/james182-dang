@@ -24,10 +24,7 @@ Currently updating the front-end aspect of my portfolio, as well as working on m
 
 Beginning work soon on my next project, Concertify.
 
-Feel free to reach out to me through linkedIn,
-
-or feel free to click on my twitter link on the left there and send me a message!
-
+Feel free to reach out via email at jamesaaronlindsey182@gmail.com.
 
 ![James's github stats](https://github-readme-stats.vercel.app/api?username=james182-dang)
 
