@@ -20,7 +20,7 @@ Musician by nature, full stack web developer by trade.
 
 Certified by Vanderbilt University.
 
-Current Project: PlayTrack
+Current Projects: PlayTrack, Audistories
 
 Beginning work soon on my next project, Concertify.
 
